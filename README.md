@@ -1,2 +1,1 @@
-# kame-sample-repo
-udemy練習用
+変更
